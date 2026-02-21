@@ -1,32 +1,22 @@
 {
-<<<<<<< HEAD
   "name": "pz-gof",
-=======
-  "name": "pz-solid",
->>>>>>> 95d9760b8ba6efb6d4ac8eadb4ff14f67ad98ef3
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
-    "start": "ts-node examples/run-all.ts"
-=======
+    "start": "ts-node examples/run-all.ts",
     "test": "jest"
->>>>>>> 95d9760b8ba6efb6d4ac8eadb4ff14f67ad98ef3
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
-<<<<<<< HEAD
     "@types/node": "^25.3.0",
     "ts-node": "^10.9.2",
-=======
     "@types/jest": "^30.0.0",
     "jest": "^30.2.0",
     "ts-jest": "^29.4.6",
->>>>>>> 95d9760b8ba6efb6d4ac8eadb4ff14f67ad98ef3
     "typescript": "^5.9.3"
   }
 }
